@@ -13,12 +13,10 @@
 <a href="https://github.com/Gallopsled/pwntools" target="_blank"> <img src="https://raw.githubusercontent.com/Gallopsled/pwntools/stable/docs/source/logo.png" alt="pwntools" width="150" height="40"/></a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
 </p>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hex-16&theme=tokyonight&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hex-16&show_icons=true&theme=tokyonight&hide=prs,issues" />
+</a><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hex-16&show_icons=true&theme=tokyonight" />
 </a>
 </p>
 
