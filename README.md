@@ -22,9 +22,10 @@
 <a href="https://www.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="４0" height="40"/></a>
 <a href="https://github.com/topics/ai" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/558a9d7bbfd1683934210d9500c1e0c8b8c50f77/topics/ai/ai.png" alt="AI" width="40" height="40"/></a>
 </p>
+
 <p align="left">
-<a href="https://github.com/hex-16"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hex-16&theme=tokyonight&layout=compact" height="160" /></a>
 <a href="https://github.com/hex-16"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hex-16&show_icons=true&theme=tokyonight&count_private=true" height="160"/></a>
+<a href="https://github.com/hex-16"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hex-16&theme=tokyonight&layout=compact" height="160" /></a>
 </p>
 <p align='left'>
 <a href="https://github.com/hex-16"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hex-16" height="160"/></a>
