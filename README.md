@@ -6,8 +6,7 @@
 <a href="https://github.com/hex-16"><img src="https://badges.pufler.dev/repos/hex-16"></a>
 <a href="https://github.com/hex-16"><img src="https://badges.pufler.dev/visits/hex-16/hex-16"></a>
 </p>
-
-<samp>Master's student at the Sun Yat-sen University. I'm working on my thesis on P2P Networks and Deep Graph Neural Networks. I am a CTF enthusiast and love binary security.👨‍💻</samp>
+<samp>Master's student at the Sun Yat-sen University. I'm working on my thesis on P2P Networks and Deep Graph Neural Networks. I'm a CTF enthusiast and love binary security.👨‍💻</samp>
 
 <h3 align="left">Languages and Tools:</h3>
 
