@@ -7,7 +7,10 @@
 <a href="https://github.com/kokifish"><img src="https://badges.pufler.dev/years/kokifish"></a>
 <a href="https://github.com/kokifish"><img src="https://badges.pufler.dev/visits/kokifish/kokifish"></a>
 </p>
-<samp>Master's student at the Sun Yat-sen University. I'm working on my thesis on P2P Networks and Deep Graph Neural Networks. I'm a CTF enthusiast and love binary security.👨‍💻</samp>
+
+koki? cookie? no, kōki desu. Care killed the cat, not fish, so I will stay interested in the curious.
+
+Master's student at the Sun Yat-sen University. I'm working on my thesis on P2P Networks and Deep Graph Neural Networks. I'm a CTF enthusiast and love binary security.👨‍💻
 
 ### Languages and Tools:
 
@@ -34,5 +37,6 @@
 </p>
 
 
-Email: <a href="mailto:hexhex16@outlook.com" target="_blank">hexhex16@outlook.com </a>
+Email: <a href="mailto:k0kifish@outlook.com" target="_blank">k0kifish@outlook.com </a>
 
+Es gibt keine schöne Fläche ohne eine schreckliche Tiefe.  —— Friedrich Nietzsche
