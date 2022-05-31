@@ -8,7 +8,7 @@
 <a href="https://github.com/kokifish"><img src="https://badges.pufler.dev/visits/kokifish/kokifish"></a>
 </p>
 
-koki? cookie? no, kōki desu. Care killed the cat, not fish, so I will stay interested in the curious.
+koki? cookie? no, kōki desu. Care killed the cat, not the fish, so I will stay interested in the curious.
 
 Master's student at the Sun Yat-sen University. I'm working on my thesis on P2P Networks and Deep Graph Neural Networks. I'm a CTF enthusiast and love binary security.👨‍💻
 
