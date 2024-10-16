@@ -37,6 +37,6 @@ Master's student at the Sun Yat-sen University. I'm working on my thesis on P2P 
 </p>
 
 
-Email: <a href="mailto:k0kifish@outlook.com" target="_blank">k0kifish@outlook.com </a>
+Email: <a href="mailto:k0k1fish@outlook.com" target="_blank">k0k1fish@outlook.com </a>
 
 Es gibt keine schöne Fläche ohne eine schreckliche Tiefe.  —— Friedrich Nietzsche
