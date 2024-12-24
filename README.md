@@ -26,8 +26,8 @@ Master's degree from Sun Yat-sen University. The research work is related to P2P
 </p>
 
 <p align="left">
-<a href="https://github.com/kokifish"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kokifish&show_icons=true&theme=tokyonight&count_private=true" height="165"/></a>
-<a href="https://github.com/kokifish"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokifish&theme=tokyonight&layout=compact" height="165" /></a>
+<a href="https://github.com/kokifish"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kokifish&show_icons=true&theme=transparent&count_private=true" height="165"/></a>
+<a href="https://github.com/kokifish"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokifish&theme=transparent&layout=compact" height="165" /></a>
 </p>
 <p align='left'>
 <a href="https://github.com/kokifish"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kokifish" height="165"/></a>
