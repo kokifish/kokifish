@@ -8,9 +8,11 @@
 <a href="https://github.com/kokifish"><img src="https://badges.pufler.dev/visits/kokifish/kokifish"></a>
 </p>
 
-koki? cookie? no, kōki desu. Care killed the cat, not the fish, so I will stay interested in the curious.
+koki? cookie? No, kōki desu. Care killed the cat, not the fish, so I'll stay interested in the curious.
 
-Master's degree from Sun Yat-sen University. The research work is related to P2P Networks and Deep Graph Neural Networks. Currently learning Android, HarmonyOS, emulator...
+As a Master's graduate from Sun Yat-sen University, my research focused on ​​peer-to-peer (P2P) Networks and Deep Graph Neural Networks. 
+
+Currently learning Android, HarmonyOS, emulator, v8... A core developer of a reverse engineering tool.
 
 ### Languages and Tools:
 
